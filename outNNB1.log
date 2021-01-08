@@ -1,0 +1,141 @@
+Python 3.7.7
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2019 NVIDIA Corporation
+Built on Sun_Jul_28_19:07:16_PDT_2019
+Cuda compilation tools, release 10.1, V10.1.243
+torch 1.5.0
+cuda True
+mmdet 2.7.0
+mmcv 1.2.2
+coco 2.0
+Running demo..
+config: Config/cascade_mask_rcnn_hrnetv2p_w32_20e.py
+checkpoint: /home/bouaffari/projects/CascadeTabNet-mmdet2x/Models/ICDAR.19.Track.B2.Modern.table.structure.recognition.v2.pth
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00697.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00014.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00648.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00699.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00634.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00633.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00400.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00085.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00082.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00338.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00788.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00757.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00336.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00750.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00331.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00849.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00790.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00113.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00858.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00114.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00797.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00746.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00384.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00748.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00161.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00383.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00947.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00706.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00701.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00751.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00446.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00848.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00756.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00337.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00083.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00758.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00339.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00789.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00084.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00632.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00195.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00401.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00698.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00635.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00696.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00015.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00302.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00948.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00700.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00941.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00946.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00160.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00382.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00385.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00749.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00796.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00747.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00791.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00112.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00123.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00299.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00158.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00813.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00945.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00704.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00703.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00942.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00386.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00164.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00163.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00381.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00792.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00743.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00111.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00660.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00795.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00744.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00334.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00755.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00333.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00752.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00445.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00089.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00341.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00087.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00080.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00109.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00175.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00636.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00631.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00196.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00526.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00528.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00695.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00016.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00301.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00638.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00794.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00745.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00793.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00110.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00162.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00165.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00702.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00943.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00944.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00157.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00705.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00159.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00812.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00298.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00300.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00639.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00630.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00527.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00637.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00081.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00340.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00086.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00332.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00753.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00088.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00335.jpg
+Detection for image: /home/bouaffari/projects/data/ICDAR2019_cTDaR/test/TRACKB1/cTDaR_t00754.jpg
+/opt/conda/lib/python3.7/site-packages/torch/nn/functional.py:2973: UserWarning: Default upsampling behavior when mode=bilinear is changed to align_corners=False since 0.4.0. Please specify align_corners=True if the old behavior is desired. See the documentation of nn.Upsample for details.
+  "See the documentation of nn.Upsample for details.".format(mode))
+/mmdetection/mmdet/apis/inference.py:183: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  plt.figure(figsize=fig_size)
