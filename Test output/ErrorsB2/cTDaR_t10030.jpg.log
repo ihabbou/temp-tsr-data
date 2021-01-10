@@ -1,0 +1,9 @@
+Bordered table /nfs/data/icdar2019_cdtar/ICDAR2019_cTDaR-master/test/TRACKB2/cTDaR_t10030.jpg
+Traceback (most recent call last):
+  File "/home/bouaffari/projects/CascadeTabNet-mmdet2x/Table Structure Recognition/main.py", line 90, in <module>
+    root.append(border(res,cv2.imread(i)))
+  File "/home/bouaffari/projects/CascadeTabNet-mmdet2x/Table Structure Recognition/border.py", line 11, in border
+    final = extract_table(image_np,1)
+  File "/home/bouaffari/projects/CascadeTabNet-mmdet2x/Table Structure Recognition/Functions/borderFunc.py", line 81, in extract_table
+    break
+TypeError: exceptions must derive from BaseException
