@@ -1,0 +1,7 @@
+Borderless table /nfs/data/icdar2019_cdtar/ICDAR2019_cTDaR-master/test/TRACKB1/cTDaR_t00696.jpg
+Traceback (most recent call last):
+  File "/home/bouaffari/projects/CascadeTabNet-mmdet2x/Table Structure Recognition/main.py", line 104, in <module>
+    root.append(borderless(res,cv2.imread(i),res_cell))
+  File "/home/bouaffari/projects/CascadeTabNet-mmdet2x/Table Structure Recognition/Functions/blessFunc.py", line 76, in borderless
+    if cell[3]<row[i]:
+IndexError: list index out of range
